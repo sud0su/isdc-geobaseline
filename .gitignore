@@ -9,3 +9,5 @@
 node_modules/
 isdc_geobaseline.egg-info/
 dist/
+
+package-lock.json
