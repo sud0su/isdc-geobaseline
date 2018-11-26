@@ -1,0 +1,121 @@
+.appdrawer {
+  padding: 10px;
+}
+
+.tableRow, .tableRowColumnHeader, .tableRowColumn {
+  height: 30px !important;
+}
+
+.tableRowColumnHeader {
+  font-weight: bold !important;
+  text-align: center !important;
+  color: #fff !important;
+  font-size: 13px !important;
+  background-color: #80C482 !important;
+}
+
+.tableRowColumn {
+  padding: 0 5px !important;
+}
+
+.box {
+  padding: 10px 10px 15px;
+}
+
+.boxOption {
+  padding: 0px;
+}
+
+.left{
+  width: 15%;
+  float: left;
+}
+
+.right{
+  padding: 0;
+}
+
+.drawerBaseline {
+  font-size: 14px;
+  font-weight: bold;
+  color: #43A547;
+  padding-top: 4px;
+}
+
+.IconClass{
+  /* background-color: #43A547; */
+  height: auto !important;
+  min-width: 70px !important;
+  max-width: 74px !important;
+  padding: 10px 0px 0px !important;
+}
+
+.IconBox{
+  /* padding-top: 10px !important; */
+}
+
+.iconSize {
+  margin-left: 0px !important;
+  padding: 10px;
+  font-size: 28px !important;
+  border-radius: 50%;
+  color: #fff !important;
+}
+
+.closeSubDrawer{
+  right: 10px;
+  top: 17px;
+  position: absolute!important;
+  border-left: 1px solid #ccc9c978;
+  color: #909090!important;
+  height: 49px;
+  margin-top: -7px;
+  padding-top: 12px;
+  background-color: #d2cccc38;
+  -webkit-border-top-right-radius: 2px;
+  -webkit-border-bottom-right-radius: 2px;
+  -moz-border-radius-topright: 2px;
+  -moz-border-radius-bottomright: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+.closeSubDrawer:hover {
+  cursor: pointer;
+  background-color:#ccc9c978;
+}
+
+.dialogTitle {
+  font-size: 15px !important;
+  font-weight: bold !important;
+  padding: 5px !important;
+  text-align: center;
+}
+
+.dialogWidth {
+  width: 100%;
+	max-width: 'none';
+}
+
+
+@media screen and (max-width: 1440px) {
+  .dialogWidth {
+      width: 80% !important;
+      max-width: 'none';
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .dialogWidth {
+      width: 90% !important;
+      max-width: 'none';
+  }
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+  .dialogWidth {
+      width: 100% !important;
+      max-width: 'none';
+  }
+}

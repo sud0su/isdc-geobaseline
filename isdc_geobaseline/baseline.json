@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Pupulation",
+        "table": [
+            {
+                "barren_land_pop": 388365.0,
+                "built_up_pop": 29385147.0,
+                "fruit_trees_pop": 102397.0,
+                "irrigated_agricultural_land_pop": 1980920.0,
+                "permanent_snow_pop": 97.0,
+                "rainfed_agricultural_land_pop": 115816.0,
+                "rangeland_pop": 1257582.0,
+                "sandcover_pop": 27613.0,
+                "vineyards_pop": 112174.0,
+                "water_body_pop": 73467.0,
+                "forest_pop": 107066.0,
+                "sand_dunes_pop": 3866.0
+            }
+        ]
+    },
+    {
+        "title": "Area (km2)",
+        "table": [
+            {
+                "barren_land_area": 171241.9,
+                "built_up_area": 4040.3,
+                "fruit_trees_area": 991.7,
+                "irrigated_agricultural_land_area": 35323.6,
+                "permanent_snow_area": 4964.0,
+                "rainfed_agricultural_land_area": 37710.5,
+                "rangeland_area": 294741.1,
+                "sandcover_area": 22616.8,
+                "vineyards_area": 793.0,
+                "water_body_area": 21361.4,
+                "forest_area": 17737.2,
+                "sand_dunes_area": 32204.8
+            }
+        ]
+    },
+    {
+        "title": "Settlements",
+        "table": [
+            {
+                "settlements": 44039.0
+            }
+        ]
+    },
+    {
+        "title": "Buildings",
+        "table": [
+            {
+                "total_buildings": 4352500.0
+            }
+        ]
+    },
+    {
+        "title": "Road (km)",
+        "road": [
+            {
+                "highway_road_base": 3467.0,
+                "primary_road_base": 3569.0,
+                "secondary_road_base": 13142.0,
+                "tertiary_road_base": 5343.0,
+                "residential_road_base": 10329.0,
+                "track_road_base": 491226.0,
+                "path_road_base": 58462.0,
+                "river_crossing_road_base": 0.0,
+                "bridge_road_base": 0.0
+            }
+        ]
+    },
+    {
+        "title": "Health Facilities",
+        "health_facilites": []
+    }
+]
